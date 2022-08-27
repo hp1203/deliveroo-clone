@@ -8,9 +8,12 @@
   </p>
 </div>
 <!-- ABOUT THE PROJECT -->
-## Screenshots
 
-[![Home Screen][product-screenshot]](https://github.com/hp1203/deliveroo-clone/blob/master/demo/IMG_8719.PNG)
+### Screenshots
+
+![Home Screen](https://github.com/hp1203/deliveroo-clone/blob/master/demo/IMG_8719.PNG "Home Screen")
+
+![Restaurant Screen](https://github.com/hp1203/deliveroo-clone/blob/master/demo/IMG_8720.PNG "Restaurant Screen")
 
 
 ### Built With
