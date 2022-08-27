@@ -11,6 +11,8 @@
 
 ### Screenshots
 
+<div style="display:flex">
+
 ![Home Screen](https://github.com/hp1203/deliveroo-clone/blob/master/demo/IMG_8719.PNG "Home Screen")
 
 ![Restaurant Screen](https://github.com/hp1203/deliveroo-clone/blob/master/demo/IMG_8720.PNG "Restaurant Screen")
@@ -19,9 +21,8 @@
 
 ![Cart Screen](https://github.com/hp1203/deliveroo-clone/blob/master/demo/IMG_8722.PNG "Restaurant Screen")
 
-![Order Details Screen](https://github.com/hp1203/deliveroo-clone/blob/master/demo/IMG_8720.PNG "Order Details Screen")
-
-<img src="https://github.com/hp1203/deliveroo-clone/blob/master/demo/IMG_8719.PNG "Home Screen"" width="18%"></img> <img src="https://github.com/hp1203/deliveroo-clone/blob/master/demo/IMG_8720.PNG "Restaurant Screen"" width="18%"></img> <img src="https://github.com/hp1203/deliveroo-clone/blob/master/demo/IMG_8721.PNG "Add to Basket"" width="18%"></img> <img src="https://github.com/hp1203/deliveroo-clone/blob/master/demo/IMG_8722.PNG "Restaurant Screen"" width="18%"></img> <img src="https://github.com/hp1203/deliveroo-clone/blob/master/demo/IMG_8720.PNG "Order Details Screen"" width="18%"></img> 
+![Order Details Screen](https://github.com/hp1203/deliveroo-clone/blob/master/demo/IMG_8724.PNG "Order Details Screen")
+</div>
 
 ### Built With
 
