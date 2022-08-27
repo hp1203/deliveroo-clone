@@ -12,8 +12,7 @@
 
 ### Screenshots
 
-![Screenshots](https://github.com/hp1203/deliveroo-clone/blob/master/demo/demo.PNG "Screenshots")
-
+![Screenshots](https://github.com/hp1203/deliveroo-clone/blob/master/demo/demo.png "Screenshots")
 
 ### Built With
 
